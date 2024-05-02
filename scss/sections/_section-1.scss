@@ -1,0 +1,57 @@
+// !============ SECTION ============
+
+.sec-1{
+    width: 100%;
+    height: 700px;
+    margin-top: 19px;
+    
+}
+.s1_left{
+    width: 50%;
+    height: 100%;
+    float: left;
+    background: url(../img/section\ 1/s1_left.jpg);
+    h2{
+        color: #333;
+        font-size: 48px;
+        font-weight: 900;
+        width: 200px;
+        margin-left: 140px;
+        margin-top: 90px;
+    }
+    .imgf{
+        color: #333;
+        margin-left: 145px;        
+    }
+}
+.ahref{
+    color: #333;
+    text-decoration: underline #803bec 6px;
+}
+.ahref:hover{
+    text-decoration: none;
+}
+.horizon{
+    width: 397px;
+    height: 13px;
+    background-color: #803bec;
+    margin-left: 145px;
+    margin-top: 30px;
+}
+.about-selector{
+    p{
+        font: 16px "Open Sans",sans-serif;
+        text-transform: uppercase;
+        line-height: 2.2;
+        font-weight: 700;
+        text-align: right;
+    }
+}
+
+.s1_right{
+    width: 50%;
+    height: 100%;
+    float: right;
+    background: url(../img/section\ 1/s1_right.jpg);
+    background-size: cover;
+}

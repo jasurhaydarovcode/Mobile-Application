@@ -1,0 +1,32 @@
+@import "fonts";
+@import "visually-hidden";
+@import "normalize";
+@import "general";
+@import "all-blocks/all-blocks"; //!====== FILE ======
+@import "variables";
+@import "sections/addon-section"; //!====== SECTIONs =====
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+// TODO:=============== decoration ===============
+
+// *=============== SCROOL ===============
+::-webkit-scrollbar{
+    width: 15px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: #805FBE;
+}
+// ::-webkit-scrollbar-thumb:hover{
+//     background-color: red;
+// }
+
+
+// *=============== SELECT ===============
+*::selection{
+    background-color: #805FBE;
+    color: white;
+}

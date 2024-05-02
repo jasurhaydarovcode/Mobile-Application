@@ -1,0 +1,88 @@
+// !=============== SECTION-5 ===============
+
+.sec-5{
+    width: 100%;
+    height: 615px;
+    background-color: #E5E5E5;
+}
+.lorem-text{
+    color: #111;
+    line-height: 1.8;
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-top: 0;
+    width: 747px;
+    height: 129px;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+}
+.girl-dev-img{
+    border-radius: 50%;
+    border: 10px solid #803bec;
+    margin-top: 120px;
+    margin-left: 660px;
+    width: 152px;
+    height: 152px;
+}
+.girl-dev-name{
+    color: #111;
+    font: 20px Poppins;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+}
+.left-div-go{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #803bec;
+    margin-left: 240px;
+    margin-top: -200px;
+    cursor: pointer;
+}
+.left-div-go:hover{
+    background-color: #fff;
+}
+.fa-chevron-left{
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: #fff;
+}
+.fa-chevron-left:hover{
+    color: black;
+    background-color: #fff;
+}
+.right-div-go{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #803bec;
+    margin-left: 1200px;
+    margin-top: -55px;
+    cursor: pointer;
+}
+.fa-chevron-right{
+    font-size: 30px;
+    margin-left: 15px;
+    margin-top: 10px;
+    color: #fff;
+}
+.right-div-go:hover{
+    background-color: #fff;
+}
+.fa-chevron-right:hover{
+    color: black;
+}
+.imgfrom-text-girl{
+    font: 16px "Open sans"sans-serif;
+    margin-top: 170px;
+    // margin-left: 600px;
+    margin: 0;
+    text-align: center;
+    margin-top: 150px;
+    a{
+        color: #111;
+    }
+}

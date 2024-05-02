@@ -1,0 +1,58 @@
+// !=============== SECTION-8 ===============
+
+.sec-8{
+    width: 100%;
+    height: 601px;
+    background-color: #1A1A1A;
+    h2{
+        color: #fff;
+        font: 60px Poppins;
+        font-weight: 700;
+        margin-top: 0;
+        text-align: center;
+        position: relative;
+        top: 50px;
+    }
+    button{
+        width: 203px;
+        height: 45px;
+        background-color: #7f51d6;
+        color: #fff;
+        font: 16px "Open Sans",sans-serif;
+        border: none;
+        border-radius: 30px;
+        position: relative;
+        top: 110px;
+        left: -440px;
+    }
+    button:hover{
+        background-color: #7f3becd6;
+    }
+}
+.two-inp-flex{
+    display: flex;
+    justify-content: center;
+    input{
+        width: 319px;
+        height: 50px;
+        outline: none;
+        color: #fff;
+        border-radius: 2px;
+        margin: 25px;
+        background-color: #333;
+        border-bottom: 3px solid white;
+        font-size: 20px;
+    }
+    input:active{
+        border: 3px solid white;
+    }
+}
+.bp-in-your-area{
+    background-color: #333;
+    width: 693px;
+    height: 136px;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 26.75%;
+    border-bottom: 3px solid white;
+}

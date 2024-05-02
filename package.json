@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "pug": "^3.0.2",
+    "sass": "^1.76.0"
+  },
+  "name": "mobile-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pug": "pug -w ./ -o ./html -P",
+    "scss": "sass -w scss/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ha7darov/Mobile-Application.git"
+  },
+  "author": "Jasurbek Haydarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ha7darov/Mobile-Application/issues"
+  },
+  "homepage": "https://github.com/ha7darov/Mobile-Application#readme",
+  "description": ""
+}
